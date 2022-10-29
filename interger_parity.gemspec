@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Gem::Specification.new do |s|
   s.authors = ['Benjamin Kiarie']
   s.files = Dir['lib/**/*.rb']
