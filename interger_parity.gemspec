@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.metadata['allowed_push_host'] = 'https://rubygems.org/'
   s.metadata['homepage_uri'] = s.homepage
   s.metadata['source_code_uri'] = 'https://github.com/Benmuiruri/parity-gem'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.licenses = ['MIT', 'GPL-2.0']
-  s.add_development_dependency 'rspec'
+  s.add_development_dependency 'rspec', '~> 3.9'
 end
