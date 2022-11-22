@@ -1,6 +1,6 @@
 # parity-gem
 
-`interger_parity` is a simple gem to split an array of integers into two arrays of odd and even integers .
+`interger_parity` is a simple gem to split an array of integers into two arrays of odd and even integers.
 
 ## Installation
 
