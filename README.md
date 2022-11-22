@@ -16,7 +16,7 @@ Then install as follows:
 $ bundle install
 ```
 
-Or install it directly using `gem`:
+Or install it directly using `gem install`:
 
 ```
 $ gem install interger_parity
